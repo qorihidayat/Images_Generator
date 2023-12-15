@@ -23,8 +23,7 @@ node .
 ```
 
 ## Usage
-
-First u can setup key & isBackEnd in file .env
+How to use it :
 - run Images Generator.bat
 - Enter the size you want (ex: 1024x700)
 - Enter the Title you want (ex: computer)
