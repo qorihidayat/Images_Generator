@@ -30,3 +30,5 @@ How to use it :
 - Enter the command
 - waiting and check your dist folder
 - Happy Hacking!
+
+[![images_generator](https://drive.google.com/file/d/12rXEYs3eZgjzJbyDI1vNJ6aMQZm0lA0y/view?usp=drive_link)](https://youtube.com/shorts/cU_z88oD3xc)
